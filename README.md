@@ -5,7 +5,6 @@
 
  ## Reikalingos biliotekos
  
-
  ```javascript
  pip3 install --upgrade pip 
  ```
@@ -22,11 +21,12 @@
  pip3 install nltk
  ```
  ### Paleidimas ir naudojimas
-
+ 
   ```javascript
  py summary.py
  ```
   ---------------------------------------------
+#### Veikia tik su straipsniais anglų kalba
  ```ps
  Ikopijuokite pusalpio kurio santrauka norite gauti URL adresa: <URL>
  ```
